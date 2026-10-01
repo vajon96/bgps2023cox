@@ -1,0 +1,8 @@
+{
+  "name": "BGPS SSC 2023 Reunion",
+  "description": "Official reunion and alumni platform for the SSC 2023 batch of Border Guard Public School, Cox's Bazar. Reconnect with classmates, join events, share memories, and stay updated.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
